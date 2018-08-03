@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+<Button
+    android:id="@+id/student"
+    android:layout_width="550px"
+    android:layout_height="match_parent"
+    android:text="STUDENT"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentStart="true"
+    android:background="@android:color/black"
+    android:textColor="@android:color/white"
+    android:layout_toStartOf="@+id/teacher"
+    android:layout_alignParentTop="true" />
+
+<Button
+    android:id="@+id/teacher"
+    android:layout_width="550px"
+    android:layout_height="match_parent"
+    android:text="TEACHER"
+    android:layout_alignParentEnd="true"
+    android:background="@android:color/white"
+    android:textColor="@android:color/black"
+    android:layout_alignParentTop="true" />
+</RelativeLayout>
+

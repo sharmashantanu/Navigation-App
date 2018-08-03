@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_computer"
+        android:icon="@drawable/ic_add_location_black_24dp"
+        android:title="Computer Engineering Dept." />
+    <item
+        android:id="@+id/nav_electronics"
+        android:icon="@drawable/ic_place_black_24dp"
+        android:title="Electronics Engineering Dept. " />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_add_location_black_24dp"
+        android:title="About Us" />
+</group>
+
+
+</menu>

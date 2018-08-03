@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">ZhcetNavigationApp</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_location">Map</string>
+    <string name="title_activity_complete_list">CompleteList</string>
+
+    <string-array name="departments">
+        <item>Computer</item>
+        <item>Electronics</item>
+    </string-array>
+
+    <string-array name="input_name_electronics">
+
+    </string-array>
+
+    <string-array name="input_name_teachers">
+        <item>Prof. Mohd Sarosh Umar</item>
+        <item>Prof. Nesar Ahmad</item>
+        <item>Prof. Ash Mohammad Abbas</item>
+        <item>Mr. Misbahur Rahman Warsi</item>
+        <item>Dr. Izharuddin</item>
+        <item>Dr. Rashid Ali</item>
+        <item>Dr. Saiful Islam</item>
+        <item>Mr. Mohd Abdul Qadeer</item>
+        <item>Mr. Nadeem Akhtar</item>
+        <item>Mr. Tameem Ahmad</item>
+        <item>Mr. Asad Mohammad Khan</item>
+        <item>Mr. Muneeb Hasan Khan</item>
+        <item>Mr. Faisal Alam</item>
+        <item>Ms. Zeba Khanam</item>
+        <item>Ms. Hira Javed</item>
+        <item>Mr. Mohd. Imran</item>
+        <item>Mr. Misbahul Haque</item>
+        <item>Ms. Syeda Shira Moin</item>
+        <item>Mr. Mohd. Shoaib</item>
+        <item>Mr. Syed Usman Ahmad</item>
+        <item>------------------</item>
+        <item>Prof. Mohd. Hasan</item>
+        <item>Prof. Zia Ahmad Abbasi</item>
+        <item>Prof. Pervez Mustajab</item>
+        <item>Prof. Mirza Salim Beg</item>
+        <item>Prof. Omar Farooq</item>
+        <item>Prof. Muhmmad Shah Alam</item>
+        <item>Prof. Ekram Khan</item>
+        <item>Prof. Sudhanshu Maheshwari</item>
+        <item>Prof. Mohammad Jawaid Siddiqui</item>
+        <item>Prof. Syed Atiqur Rahman</item>
+        <item>Prof. Athar Ali Moinuddin</item>
+        <item>Prof. Syed Javed Arif</item>
+        <item>Dr.Tahira Parveen</item>
+        <item>Mr. Musiur Raza Abidi</item>
+        <item>Dr. Anwar Sadat</item>
+        <item>Dr. Mohd Samar Ansari</item>
+        <item>Dr. Mohd. Sharique</item>
+        <item>Dr. Naushad Alam</item>
+        <item>Mr. Mohd. Wajid Shamsi</item>
+        <item>Dr. M. Ayyub Khan</item>
+        <item>Ms Raaziyah Shamim</item>
+        <item>Dr. Rehan Muzammil</item>
+    </string-array>
+
+    <string name="id">Prof. Mohd Sarosh Umar</string>
+    <string name="id2">Prof. Nesar Ahmad</string>
+    <string name="id3">Prof. Ash Mohammad Abbas</string>
+    <string name="id4">Prof. M.M. Sufyan Beg</string>
+    <string name="id5">Mr. Misbahur Rahman Warsi</string>
+    <string name="id6">Dr. Izharuddin</string>
+    <string name="id7">Dr. Mohammad Athar Ali</string>
+    <string name="id8">Dr. Rashid Ali</string>
+    <string name="id9">Dr. Saiful Islam</string>
+    <string name="id10">Mr. Mohd Abdul Qadeer</string>
+    <string name="id11">Mr. Nadeem Akhtar</string>
+    <string name="id12">Mr. M. Inamullah</string>
+    <string name="id13">Mr. Tameem Ahmad</string>
+    <string name="id14">Mr. Asad Mohammad Khan</string>
+    <string name="id15">Mr. Muneeb Hasan Khan</string>
+    <string name="id16">Mr. Faisal Alam</string>
+
+    <string name="title_activity_list_electronics">Electronics</string>
+
+    <string name="e1">Prof. Mohd. Hasan</string>
+    <string name="e2">Prof. Zia Ahmad Abbasi</string>
+    <string name="e3">Prof. Pervez Mustajab</string>
+    <string name="e4">Prof. Mirza Salim Beg</string>
+    <string name="e5">Prof. Omar Farooq</string>
+    <string name="e6">Prof. Muhmmad Shah Alam</string>
+    <string name="e7">Prof. Ekram Khan</string>
+    <string name="e8">Prof. Sudhanshu Maheshwari</string>
+    <string name="e9">Prof. Mohammad Jawaid Siddiqui</string>
+    <string name="e10">Prof. Syed Atiqur Rahman</string>
+    <string name="e11">Prof. Athar Ali Moinuddin</string>
+    <string name="e12">Prof. Syed Javed Arif</string>
+    <string name="e13">Dr.Tahira Parveen</string>
+    <string name="e14">Mr. Musiur Raza Abidi</string>
+    <string name="e15">Dr. Anwar Sadat</string>
+    <string name="e16">Dr. Mohd Samar Ansari</string>
+    <string name="e17">Dr. Mohd. Sharique</string>
+    <string name="e18">Dr. Naushad Alam</string>
+    <string name="e19">Mr. Mohd. Wajid Shamsi</string>
+    <string name="e20">Dr. M. Ayyub Khan</string>
+    <string name="e21">Ms Raaziyah Shamim</string>
+    <string name="e22">Dr. Rehan Muzammil</string>
+
+    <string name="title_activity_main_departments">MainDepartments</string>
+
+
+</resources>

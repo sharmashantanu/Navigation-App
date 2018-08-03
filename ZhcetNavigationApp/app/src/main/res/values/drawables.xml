@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="nav_computer" type="drawable">@android:drawable/ic_menu_mylocation</item>
+    <item name="nav_electronics" type="drawable">@android:drawable/ic_menu_mylocation</item>
+    <item name="nav_electrical" type="drawable">@android:drawable/ic_menu_mylocation</item>
+    <item name="about" type="drawable">@android:drawable/ic_menu_manage</item>
+</resources>

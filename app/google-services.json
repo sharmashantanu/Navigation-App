@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "597703268795",
+    "firebase_url": "https://zhcetnavigationapp.firebaseio.com",
+    "project_id": "zhcetnavigationapp",
+    "storage_bucket": "zhcetnavigationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597703268795:android:af528f4eccafd36a",
+        "android_client_info": {
+          "package_name": "com.zhcet.zhcetnavigationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597703268795-75req4pqh44et4dv44fjphts03gifkfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzuF5inSuCci0jU1YwwPxKKpTRSnA2Jzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

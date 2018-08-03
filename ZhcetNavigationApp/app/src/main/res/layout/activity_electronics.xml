@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWHITE"
+    tools:context="com.zhcet.zhcetnavigationapp.computer">
+
+    <ListView
+        android:id="@+id/simpleListView"
+        android:layout_width="fill_parent"
+        android:elevation="@dimen/activity_horizontal_margin"
+        android:layout_height="wrap_content"
+        android:divider="@color/colorWHITE"
+        android:dividerHeight="10dp"
+        android:footerDividersEnabled="true"
+        android:soundEffectsEnabled="true" />
+</LinearLayout>

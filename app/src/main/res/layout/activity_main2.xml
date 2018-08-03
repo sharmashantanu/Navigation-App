@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/map1"
+    tools:context="com.zhcet.zhcetnavigationapp.Main2Activity">
+
+
+    <LinearLayout
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        android:orientation="vertical"
+
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="6dp">
+
+
+        <Button
+            android:id="@+id/csbtn"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:text="COMPUTER"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/ecebtn"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:text="ELECTONICS"
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/elebtn"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:text="ELECTRICAL"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
